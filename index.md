@@ -1,4 +1,4 @@
-#Billy Chen's First CS193 Homework
+# Billy Chen's First CS193 Homework
 - Awesome Teachers
 - Epic way to keep attendance
 - Cool classroom
